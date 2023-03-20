@@ -1,6 +1,6 @@
 <h2> Hello, My name is Felipe Garcia Diaz </h2>
 <h3> I am a web application developer, and cyber security specialist. </h3>
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
 
 
 
