@@ -7,5 +7,5 @@
 [![GitHub felipeGarciaDiaz](https://img.shields.io/github/followers/felipeGarciaDiaz?label=follow&style=social)](https://github.com/felipeGarciaDiaz)
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeGarciaDiaz&show_icons=true&&count_private=true&include_all_commits=true&title_color=E96479&icon_color=4D455D&text_color=4D455D&border_color=D8D9CF&border_radius=10" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeGarciaDiaz&hide=java,html,tex&title_color=E96479&text_color=4D455D&icon_color=4D455D&text_color=4D455D&border_color=D8D9CF&border_radius=10&langs_count=3" />
 
