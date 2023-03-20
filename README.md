@@ -7,5 +7,21 @@
 [![GitHub felipeGarciaDiaz](https://img.shields.io/github/followers/felipeGarciaDiaz?label=follow&style=social)](https://github.com/felipeGarciaDiaz)
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeGarciaDiaz&show_icons=true&&count_private=true&include_all_commits=true&title_color=E96479&icon_color=4D455D&text_color=4D455D&border_color=D8D9CF&border_radius=10" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeGarciaDiaz&title_color=E96479&icon_color=&45455D&text_color=45455D&border_color=D8D9CF&show_icons=true" />
 
+
+```javascript
+
+const felipe = {
+  pronouns: "he" | "him",
+  age: 23,
+  tech: {
+    languages: ["Javascript", "NodeJS", "PHP", "HTML5", "CSS3", "Python", "GDScript", ],
+    frameworks: ["ReactJS", "ExpressJS", "Phaser3"],
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Linux", "Git", "Kubernetes", "Godot", "Figma", "Photoshop"],
+  },
+  aboutMe: "I've loved computers since I was a kid. I am proud that I can say I've found my calling in life.",
+  focus: ["Web Application Development", "Game Development", "Cyber Security"],
+  yearsOfExperience: 5.00,
+};
+```
