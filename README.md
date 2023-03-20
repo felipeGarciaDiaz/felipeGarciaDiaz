@@ -29,5 +29,5 @@ const felipe = {
 };
 ```
 
-<h3><b>I love collaborating with other developers</b>, if you have a project in mind lets build something!</h3>
-<h4>I am currently looking for employment in the tech sector, if you like my vibe and my projects, i'd love to work for you!!! :) </h4>
+<p><b>I love collaborating with other developers</b>, if you have a project in mind lets build something!</p>
+<p>I am currently looking for employment in the tech sector, if you like my vibe and my projects, <b>I'd love to work for you!!!</b> :) </p>
