@@ -9,6 +9,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeGarciaDiaz&show_icons=true&&count_private=true&include_all_commits=true&title_color=E96479&icon_color=4D455D&text_color=4D455D&border_color=D8D9CF&border_radius=10" />
 
  <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
+ <br />
  
  
  
