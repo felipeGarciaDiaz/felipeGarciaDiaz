@@ -1,5 +1,6 @@
 <h2> Hello, My name is Felipe Garcia Diaz </h2>
 <h3> I am a web application developer, and cyber security specialist.
+ <p><i>With a bit of game development sprinkled in</i></p>
 </h3>
 
 
