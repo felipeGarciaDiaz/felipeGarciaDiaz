@@ -1,7 +1,6 @@
 <h2> Hello, My name is Felipe Garcia Diaz </h2>
-<h3> I am a web application developer, and cyber security specialist. </h3>
-<img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
-
+<h3> I am a web application developer, and cyber security specialist. <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/>
+</h3>
 
 
 [![Linkedin: felipeGarciaDiaz](https://img.shields.io/badge/-felipeGarciaDiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/felipe-garcia-diaz-a91106211/](https://www.linkedin.com/in/felipe-garcia-diaz-a91106211/))](https://www.linkedin.com/in/felipe-garcia-diaz-a91106211/)
