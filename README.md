@@ -1,8 +1,7 @@
 ### Hello, My name is Felipe Garcia Diaz
 ## I am a web application developer, and cyber security specialist.
 
-![image] ({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <!--
 **felipeGarciaDiaz/felipeGarciaDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
