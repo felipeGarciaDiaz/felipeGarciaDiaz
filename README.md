@@ -19,16 +19,17 @@ const felipe = {
   pronouns: "he" | "him",
   age: 23,
   tech: {
-    languages: ["Javascript", "NodeJS", "PHP", "HTML5", "CSS3", "Python", "GDScript", ],
-    frameworks: ["ReactJS", "ExpressJS", "Phaser3"],
-    databases: ["MySQL", "MongoDB"],
-    tools: ["Linux", "Git", "Kubernetes", "Godot", "Figma", "Photoshop"],
+    languages: ["Javascript", "NodeJS", "PHP", "HTML5", "CSS3", "Python", "GDScript", "Dart", "C#" ],
+    frameworks: ["ReactJS", "ExpressJS", "Phaser3", "Angular", "Flutter"],
+    databases: ["MySQL", "MSSQL" ,"MongoDB",],
+    tools: ["Linux", "Git", "Kubernetes", "Godot", "Figma", "Photoshop", "Gimp", "Azure Data Studio"],
   },
   aboutMe: "I've loved computers since I was a kid. I am proud that I can say I've found my calling in life.",
-  focus: ["Web Application Development", "Game Development", "Cyber Security"],
+  focus: ["Web Application Development", "Game Development", "Cyber Security", "Mobile App Development"],
   yearsOfExperience: 5.00,
 };
 ```
 
 <p><b>I love collaborating with other developers</b>, if you have a project in mind lets build something!</p>
-<p>I am currently looking for employment in the tech sector, if you like my vibe and my projects, <b>I'd love to work for you!!!</b> :) </p>
+<p>I am currently working as a full-stack developer for a lottery / casino development firm. I work with existing lottery / casino systems,
+and additionally, I make new and custom games / apps for the lottery / casino based clients. Additionally I have switched to doing freelance part time, and will only be working with 2 clients max. If you have a project, or app you need help with, feel free to message me and we can work something out!!!</b> :) </p>
